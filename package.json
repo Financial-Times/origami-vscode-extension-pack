@@ -22,5 +22,9 @@
     ],
     "devDependencies": {
         "vsce": "^1.77.0"
-    }
+    },
+     "scripts": {
+        "package": "vsce package",
+		"deploy": "vsce publish -p"
+     }
 }

@@ -15,9 +15,12 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "dbaeumer.vscode-eslint",
         "dawhite.mustache",
         "stylelint.vscode-stylelint"
-    ]
+    ],
+    "devDependencies": {
+        "vsce": "^1.77.0"
+    }
 }

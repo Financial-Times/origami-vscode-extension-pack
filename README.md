@@ -4,6 +4,7 @@
 
 An extension pack for VSCode to make working with [Origami components](https://origami.ft.com/) a smoother experience.
 
+[View on the Microsoft VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=JakeChampion.origami)
 
 The pack includes: 
 

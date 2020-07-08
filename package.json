@@ -1,0 +1,23 @@
+{
+    "name": "origami",
+    "displayName": "origami",
+    "description": "helpful extensions for people who work with Origami",
+    "version": "1.0.0",
+    "publisher": "JakeChampion",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Financial-Times/origami-vscode-extension-pack"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint",
+        "dawhite.mustache",
+        "stylelint.vscode-stylelint"
+    ]
+}

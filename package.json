@@ -18,7 +18,8 @@
     "extensionPack": [
         "dbaeumer.vscode-eslint",
         "dawhite.mustache",
-        "stylelint.vscode-stylelint"
+        "stylelint.vscode-stylelint",
+	"drewbourne.vscode-remark-lint"
     ],
     "devDependencies": {
         "vsce": "^1.77.0"

@@ -20,13 +20,13 @@
         "dawhite.mustache",
         "stylelint.vscode-stylelint",
         "drewbourne.vscode-remark-lint",
-	"mrmlnc.vscode-scss"
+        "mrmlnc.vscode-scss"
     ],
     "devDependencies": {
         "vsce": "^1.77.0"
     },
      "scripts": {
         "package": "vsce package",
-		"deploy": "vsce publish -p"
+        "deploy": "vsce publish -p"
      }
 }

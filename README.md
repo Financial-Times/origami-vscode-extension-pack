@@ -12,6 +12,7 @@ The pack includes:
 * [StyleLint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 * [Mustache Syntax Highlighter](https://marketplace.visualstudio.com/items?itemName=dawhite.mustache)
 * [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint#overview)
+* [SCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 ## Have a suggestion? 
 

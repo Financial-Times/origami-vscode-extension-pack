@@ -19,7 +19,8 @@
         "dbaeumer.vscode-eslint",
         "dawhite.mustache",
         "stylelint.vscode-stylelint",
-        "drewbourne.vscode-remark-lint"
+        "drewbourne.vscode-remark-lint",
+	"mrmlnc.vscode-scss"
     ],
     "devDependencies": {
         "vsce": "^1.77.0"

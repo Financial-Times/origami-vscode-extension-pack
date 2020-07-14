@@ -2,7 +2,7 @@
     "name": "origami",
     "displayName": "origami",
     "description": "helpful extensions for people who work with Origami",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "JakeChampion",
     "engines": {
         "vscode": "^1.46.0"

@@ -1,0 +1,7 @@
+{
+	"description": "Provides VSCode extensions which are useful for developing Origami components",
+	"keywords": ["vscode"],
+	"origamiType": "config",
+	"origamiVersion": 1,
+	"supportStatus": "active"
+}

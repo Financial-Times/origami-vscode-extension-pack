@@ -23,7 +23,7 @@
         "mrmlnc.vscode-scss"
     ],
     "devDependencies": {
-        "vsce": "^1.79.3"
+        "vsce": "^1.79.5"
     },
      "scripts": {
         "package": "vsce package",

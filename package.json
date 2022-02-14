@@ -2,7 +2,7 @@
     "name": "origami",
     "displayName": "origami",
     "description": "helpful extensions for people who work with Origami",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "publisher": "JakeChampion",
     "engines": {
         "vscode": "^1.46.0"
@@ -26,8 +26,8 @@
     "devDependencies": {
         "vsce": "^1.88.0"
     },
-     "scripts": {
+    "scripts": {
         "package": "vsce package",
         "deploy": "vsce publish -p"
-     }
+    }
 }

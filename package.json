@@ -20,7 +20,8 @@
         "dawhite.mustache",
         "stylelint.vscode-stylelint",
         "drewbourne.vscode-remark-lint",
-        "mrmlnc.vscode-scss"
+        "mrmlnc.vscode-scss",
+        "esbenp.prettier-vscode"
     ],
     "devDependencies": {
         "vsce": "^1.88.0"
